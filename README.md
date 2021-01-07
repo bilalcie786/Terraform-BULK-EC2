@@ -10,6 +10,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. A AWS account with IAM user with EC2,VPC full access.
 2. Download Terraform to the local machine.
-3. When instantiating the *main.tf* script, please change the ami-id to the one you will use, otherwise, deployment will fail.
+3. When instantiating the **main.tf** script, please change the ami-id to the one you will use, otherwise, deployment will fail.
 
 
